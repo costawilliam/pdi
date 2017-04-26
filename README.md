@@ -15,7 +15,7 @@ Trabalho desenvolvido na disciplina de processamento digital de imagens.
 * [Converter imagem para tons de cinza](https://en.wikipedia.org/wiki/Grayscale)
 
 
-* [Extração de ruídos] - Filtro Gaussiano (https://en.wikipedia.org/wiki/Gaussian_blur)
+* [Extração de ruídos](https://en.wikipedia.org/wiki/Gaussian_blur) - Filtro Gaussiano 
 
 
 * [Detecção de bordas]()
